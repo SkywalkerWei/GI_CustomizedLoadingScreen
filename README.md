@@ -14,6 +14,8 @@
 2. 确认以下文件和`GI_LoadingScreen.exe`在同级目录下：`config.ini`；`LSMod.ini`；`texconv.exe`
 3. 运行`GI_LoadingScreen.exe`即可
 
+**注意：**每次修改源文件夹中的图片后都需要删除输出文件夹，重新运行`exe`！否则更改不会生效！
+
 ## Requirements
 
 - 需要GIMI
