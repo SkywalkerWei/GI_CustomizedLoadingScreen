@@ -65,7 +65,7 @@ def color_avg(image: Image) -> Tuple[int, int, int]:
     return tuple(map(int, np.average(pixels, axis=(0, 1))))
 
 # Read the configuration file
-config_file = "config.txt"
+config_file = "config.ini"
 with open(config_file, 'r') as f:
     lines = f.read().splitlines()
     target_resolution = tuple(map(int, lines[0].split(',')))
