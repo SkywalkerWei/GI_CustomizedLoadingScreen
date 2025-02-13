@@ -16,4 +16,5 @@
 
 ## Requirements
 
-· 需要GIMI
+- 需要GIMI
+- 需要电脑支持DirectX
