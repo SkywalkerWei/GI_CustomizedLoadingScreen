@@ -1,4 +1,4 @@
-# GIMI_CustomizedLoadingScreen
+# GI_CustomizedLoadingScreen
 
 依赖GIMI的 自定义原神加载界面插件
 
